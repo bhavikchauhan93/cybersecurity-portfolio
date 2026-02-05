@@ -1,2 +1,1 @@
-# cybersecurity-portfolio
-Cybersecurity Learning Journey
+# Cybersecurity Learning Journey - Bhavik Chauhan
